@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+cTuKnAlWE=",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

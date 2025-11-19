@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\coursAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\coursAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\coursAPI.csproj",
+        "projectName": "coursAPI",
+        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\coursAPI.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj": {
+                "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj"
+              },
+              "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\coursData.csproj": {
+                "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\coursData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj",
+        "projectName": "coursBusiness",
+        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\coursData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\coursData.csproj",
+        "projectName": "coursData",
+        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\coursData.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj": {
+                "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\coursBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
