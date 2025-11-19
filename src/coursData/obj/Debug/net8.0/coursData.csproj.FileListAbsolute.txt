@@ -14,3 +14,5 @@ C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net8.0\refint\coursData.dll
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net8.0\coursData.pdb
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net8.0\ref\coursData.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net8.0\coursData.runtimeconfig.json
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net8.0\coursData.genruntimeconfig.cache

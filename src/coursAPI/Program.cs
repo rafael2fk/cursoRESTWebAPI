@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddDbContext<MeuDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefatultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
 builder.Services.AddAutoMapper(typeof(Program));
