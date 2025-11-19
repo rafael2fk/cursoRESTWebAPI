@@ -1,0 +1,16 @@
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net6.0\coursData.deps.json
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net6.0\coursData.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net6.0\coursData.pdb
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net6.0\coursBusiness.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\bin\Debug\net6.0\coursBusiness.pdb
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.csproj.AssemblyReference.cache
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.AssemblyInfoInputs.cache
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.AssemblyInfo.cs
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.csproj.CoreCompileInputs.cache
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.sourcelink.json
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.csproj.Up2Date
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\refint\coursData.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\coursData.pdb
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\08 - RESTcomASP.NETCoreWebAPI - in progress\01 - projetoCursoREST\02 - MinhaAPICompleta\MinhaAPICompleta\src\coursData\obj\Debug\net6.0\ref\coursData.dll
