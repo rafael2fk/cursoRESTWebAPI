@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49F2000-BFE4-11EA-E02E-71B004F041AC}|src\\coursAPI\\coursAPI.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\08 - restcomasp.netcorewebapi - in progress\\01 - projetocursorest\\02 - minhaapicompleta\\minhaapicompleta\\src\\coursapi\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49F2000-BFE4-11EA-E02E-71B004F041AC}|src\\coursAPI\\coursAPI.csproj|solutionrelative:src\\coursapi\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78B59-0432-B3AD-6E28-EDDBF965F1AD}|src\\coursBusiness\\coursBusiness.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\08 - restcomasp.netcorewebapi - in progress\\01 - projetocursorest\\02 - minhaapicompleta\\minhaapicompleta\\src\\coursbusiness\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B78B59-0432-B3AD-6E28-EDDBF965F1AD}|src\\coursBusiness\\coursBusiness.csproj|solutionrelative:src\\coursbusiness\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -20,8 +29,30 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "src\\coursBusiness\\Services\\FornecedorService.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursBusiness\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "src\\coursBusiness\\Services\\FornecedorService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:10:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FornecedoresController.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\Controllers\\FornecedoresController.cs",
+              "RelativeDocumentMoniker": "src\\coursAPI\\Controllers\\FornecedoresController.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\08 - RESTcomASP.NETCoreWebAPI - in progress\\01 - projetoCursoREST\\02 - MinhaAPICompleta\\MinhaAPICompleta\\src\\coursAPI\\Controllers\\FornecedoresController.cs",
+              "RelativeToolTip": "src\\coursAPI\\Controllers\\FornecedoresController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:55:16.318Z",
+              "EditorCaption": ""
             }
           ]
         },
