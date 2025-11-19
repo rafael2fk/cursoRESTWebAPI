@@ -47,11 +47,10 @@ namespace coursAPI.Controllers
             if (!ModelState.IsValid) return BadRequest();
 
             var fornecedor = _mapper.Map<Fornecedor>(fornecedorViewModel);
-            var result = await _fornecedorService.Adicionar(fornecedor);
+            var adicionado = await _fornecedorService.Adicionar(fornecedor);
+            if (!adicionado) return BadRequest();
 
-            if (!result) return BadRequest();
-
-            return Ok(fornecedor);
+            return Ok(await ObterFornecedorEndereco(fornecedor.Id));
         }
 
         [HttpPut("{id:guid}")]
